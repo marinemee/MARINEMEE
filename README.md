@@ -29,27 +29,18 @@ An interactive Linux learning toolkit designed to help users explore common Linu
 
 ### 🚀 CradleAI
 
-A collaborative AI project focused on structured event processing, automation workflows, and intelligent content systems.
+An AI-powered baby monitoring with real-time alerts, sleep insights, and event summaries.
 
 
 ## Tech Stack
 
 ### Languages
-
-* Python
-* JavaScript
-* C++
+* Python/JavaScript/C++
 
 ### Frameworks & Tools
-
-* FastAPI
-* Flask
-* Git
-* Linux
-* SQLite
+* FastAPI/Flask/Git/Linux/SQLite
 
 ### AI & Data
-
 * Open-weight Large Language Models
 * Computer Vision
 * AI Automation
@@ -57,7 +48,6 @@ A collaborative AI project focused on structured event processing, automation wo
 * Local AI Systems
 
 ## Current Goals
-
 * Contribute to open-source projects
 * Build impactful AI and ML applications
 * Explore applied machine learning research
@@ -65,5 +55,4 @@ A collaborative AI project focused on structured event processing, automation wo
 * Create technology that solves real-world problems
 
 ## Connect With Me
-
 Feel free to explore my repositories and follow my journey as I continue learning, building, and contributing to the developer community.
