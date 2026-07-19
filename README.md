@@ -15,7 +15,7 @@ Computer Science student passionate about AI, machine learning, automation, and 
 * Python/JavaScript/C++
 
 ### Frameworks & Tools
-* FastAPI/Flask/Git/Linux/SQLite
+* FastAPI/Flask/django/SQLite/NumPy/Pandas
 
 ### AI & Data
 * Open-weight Large Language Models
