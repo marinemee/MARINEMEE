@@ -31,5 +31,3 @@ Computer Science student passionate about AI, machine learning, automation, and 
 * Strengthen backend engineering skills
 * Create technology that solves real-world problems
 
-## Connect With Me
-Feel free to explore my repositories and follow my journey as I continue learning, building, and contributing to the developer community.
