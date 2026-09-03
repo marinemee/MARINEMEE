@@ -1,17 +1,6 @@
-# 👋 Hi, I'm Marine
+#  Marine here!
 
 Computer Science student passionate about AI, machine learning, automation, and backend development. I enjoy building practical software, exploring intelligent systems, and learning how emerging technologies can solve real-world problems.
-
-## About Me
-
-- 🎓 BS Computer Science student
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🛠 Building software, automation tools, and AI-powered applications
-- 🌱 Continuously learning about backend systems, AI infrastructure, and applied ML
-- 💬 Ask me about Python, FastAPI, or open-weight LLMs
-- 📫 How to reach me: *add your email or LinkedIn here*
-
-## When I Code, I Rely On
 
 **Languages**
 
@@ -43,11 +32,6 @@ Computer Science student passionate about AI, machine learning, automation, and 
 - 🔬 Explore applied machine learning research
 - ⚙️ Strengthen backend engineering skills
 - 💡 Create technology that solves real-world problems
-
-## GitHub Stats
-
-![Marine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
